@@ -1,0 +1,5 @@
+.sw?
+.*.sw?
+*.pyc
+__pycache__
+doc/tags

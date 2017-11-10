@@ -1,0 +1,31 @@
+*rst-tables.txt* Rst tables for neovim
+
+==============================================================================
+
+CONTENTS                                                          *rst-tables*
+
+    1. Introduction .................... |rst-tables-intro|
+
+
+INTRODUCTION                                                *rst-tables-intro*
+
+A plugin to (re)format reStructuredText tables.
+
+This plugin defines the following commands:
+
+                                                             *:TableRstFormat*
+
+Creates or updates and existing table
+
+                                                             *:TableRstReflow*
+
+Reflows a table based on the first line
+
+
+This plugin defines the following keymappings:
+
+
+|<Plug>(format-rst-table)| See |:TableRstFormat|
+
+|<Plug>(reflow-rst-table)| See |:TableRstReflow|
+
