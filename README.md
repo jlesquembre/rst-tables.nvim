@@ -1,6 +1,6 @@
 # rst-tables.nvim
 
-[vim-rst-tables](nvie/vim-rst-tables) ported to python 3 and neovim
+[vim-rst-tables](https://github.com/nvie/vim-rst-tables) ported to python 3 and neovim
 
 
 ## Installation
